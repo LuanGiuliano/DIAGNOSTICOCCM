@@ -1,0 +1,23 @@
+/** Textos descritivos de cada gráfico (usados nos módulos, visão geral e modo apresentação). */
+export const DESC = {
+  vinculo: 'Mostra o tipo de vínculo funcional dos servidores da CCM com a SEDUC (efetivos, comissionados, cedidos etc.).',
+  cargo: 'Indica quantos servidores ocupam cargo comissionado ou possuem Função Gratificada (FG) na carteira.',
+  jornada: 'Distribuição da carga horária semanal de trabalho dos servidores respondentes.',
+  grupo: 'Classificação dos servidores por grupo funcional, mostrando o perfil de atuação da equipe.',
+  carteira: 'Quantidade de servidores que atuam como ponto focal em cada carteira de serviços da CCM.',
+  escolaridade: 'Nível máximo de escolaridade alcançado pela equipe, da graduação à pós-graduação.',
+  formacao: 'Áreas de formação superior dos servidores, evidenciando a diversidade de conhecimentos disponíveis.',
+  qualificacao: 'Verifica se as atividades executadas no dia a dia estão alinhadas à qualificação do servidor.',
+  outrasAreas: 'Mostra quantos servidores já trabalharam em outros setores da SEDUC, indicando experiência institucional.',
+  comunicacao: 'Avaliação de 1 a 5 sobre a clareza e objetividade da comunicação interna na carteira.',
+  clareza: 'Avaliação de 1 a 5 sobre o quanto as atribuições de cada servidor estão claras.',
+  empatia: 'Avaliação de 1 a 5 sobre o nível de empatia e cooperação entre os colegas de carteira.',
+  climaBars: 'Compara a média (1 a 5) dos três indicadores de clima organizacional: comunicação, clareza das atribuições e empatia.',
+  radar: 'Radar com a média da autoavaliação (1 a 5) em cada competência. Quanto mais próximo da borda, maior o domínio da equipe.',
+  execucao: 'Autoavaliação da qualidade e do cumprimento das tarefas atribuídas à carteira, em escala de 1 a 5.',
+  planejamento: 'Proporção de servidores que fazem planejamento semanal ou mensal de suas atividades.',
+  pae: 'Como está o gerenciamento dos processos passivos (parados/acumulados) no sistema PAE.',
+  swot: 'Quantidade de apontamentos feitos pelos servidores em cada quadrante da Matriz SWOT (Forças, Fraquezas, Oportunidades e Ameaças).',
+  temasIA: 'Temas que mais se repetiram nas respostas livres, identificados pela análise inteligente dos campos abertos.',
+  competencia: 'Autoavaliação de 1 (muito baixo) a 5 (muito alto) nesta competência.',
+};

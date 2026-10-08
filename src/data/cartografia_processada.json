@@ -1,0 +1,418 @@
+{
+  "totalRespostas": 9,
+  "carteiras": [
+    "POLO",
+    "PECÚNIA",
+    "TRIÊNIO",
+    "CERTIDÃO",
+    "FÉRIAS",
+    "DESIGNAÇÃO",
+    "DIÁRIO/PUBLICAÇÃO",
+    "DECLARAÇÃO/ATESTADO",
+    "PROTOCOLO"
+  ],
+  "mediasCompetenciasGeral": {
+    "Informática": 3.44,
+    "Planilhas": 3.22,
+    "Google": 3.22,
+    "Sistemas SEDUC": 4.22,
+    "PAE 4.0": 3.89,
+    "Redação/Parecer": 3.78,
+    "Rel. Interpessoais": 4.22,
+    "Gestão Proc.": 4.56,
+    "Análise Dados": 4.22,
+    "Planejamento": 3.78,
+    "Inteligência Artif.": 1.78,
+    "Legislação": 2.78
+  },
+  "competenciasPorCarteira": [
+    {
+      "carteira": "POLO",
+      "Informática": 4.0,
+      "Planilhas": 4.0,
+      "Google": 4.0,
+      "Sistemas SEDUC": 4.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 5.0,
+      "Rel. Interpessoais": 5.0,
+      "Gestão Proc.": 4.0,
+      "Análise Dados": 5.0,
+      "Planejamento": 4.0,
+      "Inteligência Artif.": 1.0,
+      "Legislação": 3.0
+    },
+    {
+      "carteira": "PECÚNIA",
+      "Informática": 3.0,
+      "Planilhas": 3.0,
+      "Google": 4.0,
+      "Sistemas SEDUC": 5.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 4.0,
+      "Rel. Interpessoais": 4.0,
+      "Gestão Proc.": 4.0,
+      "Análise Dados": 4.0,
+      "Planejamento": 5.0,
+      "Inteligência Artif.": 4.0,
+      "Legislação": 4.0
+    },
+    {
+      "carteira": "TRIÊNIO",
+      "Informática": 4.0,
+      "Planilhas": 3.0,
+      "Google": 3.0,
+      "Sistemas SEDUC": 5.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 4.0,
+      "Rel. Interpessoais": 4.0,
+      "Gestão Proc.": 5.0,
+      "Análise Dados": 5.0,
+      "Planejamento": 5.0,
+      "Inteligência Artif.": 1.0,
+      "Legislação": 2.0
+    },
+    {
+      "carteira": "CERTIDÃO",
+      "Informática": 3.0,
+      "Planilhas": 4.0,
+      "Google": 4.0,
+      "Sistemas SEDUC": 4.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 3.0,
+      "Rel. Interpessoais": 4.0,
+      "Gestão Proc.": 4.0,
+      "Análise Dados": 2.0,
+      "Planejamento": 2.0,
+      "Inteligência Artif.": 1.0,
+      "Legislação": 2.0
+    },
+    {
+      "carteira": "FÉRIAS",
+      "Informática": 3.0,
+      "Planilhas": 2.0,
+      "Google": 2.0,
+      "Sistemas SEDUC": 4.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 4.0,
+      "Rel. Interpessoais": 5.0,
+      "Gestão Proc.": 5.0,
+      "Análise Dados": 3.0,
+      "Planejamento": 4.0,
+      "Inteligência Artif.": 1.0,
+      "Legislação": 3.0
+    },
+    {
+      "carteira": "DESIGNAÇÃO",
+      "Informática": 4.0,
+      "Planilhas": 3.0,
+      "Google": 3.0,
+      "Sistemas SEDUC": 5.0,
+      "PAE 4.0": 5.0,
+      "Redação/Parecer": 4.0,
+      "Rel. Interpessoais": 3.0,
+      "Gestão Proc.": 5.0,
+      "Análise Dados": 5.0,
+      "Planejamento": 5.0,
+      "Inteligência Artif.": 2.0,
+      "Legislação": 4.0
+    },
+    {
+      "carteira": "DIÁRIO/PUBLICAÇÃO",
+      "Informática": 4.0,
+      "Planilhas": 2.0,
+      "Google": 2.0,
+      "Sistemas SEDUC": 1.0,
+      "PAE 4.0": 2.0,
+      "Redação/Parecer": 4.0,
+      "Rel. Interpessoais": 4.0,
+      "Gestão Proc.": 5.0,
+      "Análise Dados": 5.0,
+      "Planejamento": 2.0,
+      "Inteligência Artif.": 2.0,
+      "Legislação": 2.0
+    },
+    {
+      "carteira": "DECLARAÇÃO/ATESTADO",
+      "Informática": 4.0,
+      "Planilhas": 5.0,
+      "Google": 4.0,
+      "Sistemas SEDUC": 5.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 3.0,
+      "Rel. Interpessoais": 5.0,
+      "Gestão Proc.": 4.0,
+      "Análise Dados": 4.0,
+      "Planejamento": 4.0,
+      "Inteligência Artif.": 2.0,
+      "Legislação": 3.0
+    },
+    {
+      "carteira": "PROTOCOLO",
+      "Informática": 2.0,
+      "Planilhas": 3.0,
+      "Google": 3.0,
+      "Sistemas SEDUC": 5.0,
+      "PAE 4.0": 4.0,
+      "Redação/Parecer": 3.0,
+      "Rel. Interpessoais": 4.0,
+      "Gestão Proc.": 5.0,
+      "Análise Dados": 5.0,
+      "Planejamento": 3.0,
+      "Inteligência Artif.": 2.0,
+      "Legislação": 2.0
+    }
+  ],
+  "climaPorCarteira": [
+    {
+      "carteira": "POLO",
+      "Comunicação Interna": 4.0,
+      "Clareza das Atribuições": 4.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "PECÚNIA",
+      "Comunicação Interna": 5.0,
+      "Clareza das Atribuições": 5.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "TRIÊNIO",
+      "Comunicação Interna": 5.0,
+      "Clareza das Atribuições": 5.0,
+      "Empatia e Cooperação": 4.0
+    },
+    {
+      "carteira": "CERTIDÃO",
+      "Comunicação Interna": 4.0,
+      "Clareza das Atribuições": 4.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "FÉRIAS",
+      "Comunicação Interna": 4.0,
+      "Clareza das Atribuições": 4.0,
+      "Empatia e Cooperação": 4.0
+    },
+    {
+      "carteira": "DESIGNAÇÃO",
+      "Comunicação Interna": 4.0,
+      "Clareza das Atribuições": 5.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "DIÁRIO/PUBLICAÇÃO",
+      "Comunicação Interna": 5.0,
+      "Clareza das Atribuições": 5.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "DECLARAÇÃO/ATESTADO",
+      "Comunicação Interna": 5.0,
+      "Clareza das Atribuições": 5.0,
+      "Empatia e Cooperação": 5.0
+    },
+    {
+      "carteira": "PROTOCOLO",
+      "Comunicação Interna": 4.0,
+      "Clareza das Atribuições": 4.0,
+      "Empatia e Cooperação": 5.0
+    }
+  ],
+  "mediasClima": {
+    "Comunicação Interna": 4.44,
+    "Clareza das Atribuições": 4.56,
+    "Empatia e Cooperação": 4.78
+  },
+  "avaliacoesPorCarteira": [
+    {
+      "carteira": "POLO",
+      "notaExecucao": 4.0,
+      "planejamento": "Às vezes",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "PECÚNIA",
+      "notaExecucao": 5.0,
+      "planejamento": "Sim",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "TRIÊNIO",
+      "notaExecucao": 5.0,
+      "planejamento": "Às vezes",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "CERTIDÃO",
+      "notaExecucao": 5.0,
+      "planejamento": "Às vezes",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "FÉRIAS",
+      "notaExecucao": 3.0,
+      "planejamento": "Às vezes",
+      "gestaoPassivoPAE": "Parcialmente"
+    },
+    {
+      "carteira": "DESIGNAÇÃO",
+      "notaExecucao": 4.0,
+      "planejamento": "Não",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "DIÁRIO/PUBLICAÇÃO",
+      "notaExecucao": 3.0,
+      "planejamento": "Sim",
+      "gestaoPassivoPAE": "Não"
+    },
+    {
+      "carteira": "DECLARAÇÃO/ATESTADO",
+      "notaExecucao": 5.0,
+      "planejamento": "Às vezes",
+      "gestaoPassivoPAE": "Sim"
+    },
+    {
+      "carteira": "PROTOCOLO",
+      "notaExecucao": 5.0,
+      "planejamento": "Sim",
+      "gestaoPassivoPAE": "Sim"
+    }
+  ],
+  "escolaridade": {
+    "GRADUAÇÃO": 2,
+    "ESPECIALIZAÇÃO": 2,
+    "ENSINO MÉDIO": 5
+  },
+  "jornada": {
+    "INTEGRAL": 9
+  },
+  "vinculo": {
+    "EFETIVO": 9
+  },
+  "qualificacaoAtual": {
+    "SIM": 6,
+    "PARCIALMENTE": 2,
+    "NÃO": 1
+  },
+  "cargoComissionado": {
+    "SIM": 9
+  },
+  "swot": {
+    "forcas": [
+      {
+        "carteira": "POLO",
+        "texto": "EQUIPE MUITO ATENTA"
+      }
+    ],
+    "fraquezas": [
+      {
+        "carteira": "POLO",
+        "texto": "APRIMORAR O TEXTO FINAL E A QUALIDADE TÉCNICA DOS DESPACHOS. O SUPORTE JURÍDICO GERA MAIS SEGURANÇA NA ELABORAÇÃO DOS DESPACHOS."
+      },
+      {
+        "carteira": "FÉRIAS",
+        "texto": "É necessário ter maior suporte tecnológico para atendimento das demandas apresentadas."
+      }
+    ],
+    "oportunidades": [
+      {
+        "carteira": "POLO",
+        "texto": "AUMENTAR O NÚMERO DE SERVIDORES E PROMOVER A QUALIFICAÇÃO DOS MESMOS."
+      },
+      {
+        "carteira": "PECÚNIA",
+        "texto": "Necessidade de treinamentos ou cursos voltados a linguagem jurídica aplicada a área da pecúnia. A equipe tem necessidade de atualização, a fim de ter maior segurança no parecer e nos fluxos."
+      },
+      {
+        "carteira": "FÉRIAS",
+        "texto": "Apresentar as demandas da área para desenvolvimento de sistema para Montreal."
+      },
+      {
+        "carteira": "POLO",
+        "texto": "É fundamental para aprimorar o trabalho na carteira o acesso ao INDEXA, através de senha a ser fornecida pelo IGEPPS, para a devida consulta das contribuições anteriores a 1989. Outro aspecto importante a se destacar é que deve ser melhorado o despacho das áreas demandantes, com clareza do que deve ser realizado no processo, portanto, com a devida análise técnica do setor específico."
+      },
+      {
+        "carteira": "CERTIDÃO",
+        "texto": "Necessidade de sistema"
+      }
+    ],
+    "ameacas": [
+      {
+        "carteira": "POLO",
+        "texto": "PROCESSOS QUE CHEGAM COM DESPACHOS POUCO CLAROS E DE DIFÍCIL COMPREENSÃO"
+      }
+    ]
+  },
+  "conexoes": {
+    "TRIÊNIO": [
+      "CERTIDÃO",
+      "AVERBAÇÃO",
+      "MANUTENÇÃO",
+      "ATESTADO"
+    ],
+    "CERTIDÃO": [
+      "POLO"
+    ],
+    "DESIGNAÇÃO": [
+      "FÉRIAS",
+      "LICENÇAS DIVERSAS",
+      "MANUTENÇÃO",
+      "DIÁRIO/PUBLICAÇÃO",
+      "ARQUIVO",
+      "ATESTADO",
+      "PROTOCOLO"
+    ],
+    "FÉRIAS": [
+      "TRIÊNIO",
+      "DESIGNAÇÃO",
+      "LICENÇAS DIVERSAS",
+      "POLO",
+      "MANUTENÇÃO",
+      "DIÁRIO/PUBLICAÇÃO"
+    ],
+    "PECÚNIA": [
+      "LICENÇAS DIVERSAS"
+    ],
+    "POLO": [
+      "TRIÊNIO",
+      "CERTIDÃO",
+      "AVERBAÇÃO",
+      "MANUTENÇÃO",
+      "DIÁRIO/PUBLICAÇÃO",
+      "DECLARAÇÃO"
+    ],
+    "DIÁRIO/PUBLICAÇÃO": [
+      "DESIGNAÇÃO",
+      "FÉRIAS",
+      "LICENÇAS DIVERSAS",
+      "POLO",
+      "COMUNICAÇÃO",
+      "MANUTENÇÃO"
+    ],
+    "DECLARAÇÃO/ATESTADO": [
+      "TRIÊNIO",
+      "CERTIDÃO",
+      "LICENÇAS DIVERSAS",
+      "POLO",
+      "AVERBAÇÃO",
+      "MANUTENÇÃO"
+    ],
+    "PROTOCOLO": [
+      "TRIÊNIO",
+      "CERTIDÃO",
+      "DESIGNAÇÃO",
+      "FÉRIAS",
+      "LICENÇAS DIVERSAS",
+      "PECÚNIA",
+      "POLO",
+      "AVERBAÇÃO",
+      "COMUNICAÇÃO",
+      "MANUTENÇÃO",
+      "DIÁRIO/PUBLICAÇÃO",
+      "ARQUIVO",
+      "DECLARAÇÃO/ATESTADO",
+      "PROTOCOLO"
+    ]
+  }
+}

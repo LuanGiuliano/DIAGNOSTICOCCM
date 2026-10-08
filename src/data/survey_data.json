@@ -1,0 +1,251 @@
+{
+  "total_respondentes": 14,
+  "setor": {
+    "DIRETORIA DE ORGANIZAÇÃO DE PESSOAL (DIOP)": 14
+  },
+  "coordenacao": {
+    "COORDENADORIA DE CONTROLE E MOVIMENTAÇÃO (CCM)": 14
+  },
+  "vinculo_funcional": {
+    "EFETIVO": 12,
+    "COMISSIONADO, COM VÍNCULO EFETIVO": 2
+  },
+  "grupo_funcional": {
+    "ADMINISTRATIVO": 14
+  },
+  "cargo_comissionado": {
+    "SIM": 9,
+    "NÃO": 5
+  },
+  "jornada": {
+    "INTEGRAL": 9,
+    "PARCIAL": 5
+  },
+  "carteira_ponto_focal": {
+    "TRIÊNIO": 1,
+    "CERTIDÃO": 1,
+    "DESIGNAÇÃO": 2,
+    "FÉRIAS": 2,
+    "LICENÇAS DIVERSAS": 1,
+    "PECÚNIA": 1,
+    "POLO": 1,
+    "AVERBAÇÃO": 1,
+    "COMUNICAÇÃO": 1,
+    "DIÁRIO/PUBLICAÇÃO": 1,
+    "ARQUIVO": 1,
+    "PROTOCOLO": 1
+  },
+  "escolaridade": {
+    "GRADUAÇÃO": 7,
+    "ESPECIALIZAÇÃO": 5,
+    "ENSINO MÉDIO": 2
+  },
+  "formacao_superior": {
+    "ADMINISTRAÇÃO": 3,
+    "DIREITO": 2,
+    "PEDAGOGIA": 1,
+    "GESTÃO DE RH": 1,
+    "SERVIÇO SOCIAL": 1,
+    "OUTRO": 5
+  },
+  "atividades_correspondem_qualif": {
+    "SIM": 7,
+    "NÃO": 3,
+    "PARCIALMENTE": 4
+  },
+  "atuou_outras_areas": {
+    "SIM": 11,
+    "NÃO": 3
+  },
+  "clima_organizacional": {
+    "comunicacao_interna": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 5,
+      "5": 3
+    },
+    "clareza_atribuicoes": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 6,
+      "5": 4
+    },
+    "empatia_cooperacao": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 5,
+      "5": 6
+    }
+  },
+  "competencias": {
+    "informatica_basica": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 6,
+      "5": 6
+    },
+    "planilhas_eletronicas": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 5,
+      "5": 3
+    },
+    "ferramentas_google": {
+      "1": 0,
+      "2": 1,
+      "3": 4,
+      "4": 6,
+      "5": 3
+    },
+    "sistemas_seduc": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 6,
+      "5": 4
+    },
+    "pae40": {
+      "1": 1,
+      "2": 3,
+      "3": 4,
+      "4": 4,
+      "5": 2
+    },
+    "redacao_oficial": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 5,
+      "5": 3
+    },
+    "relacoes_interpessoais": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 7
+    },
+    "gestao_processos": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 7,
+      "5": 3
+    },
+    "analise_dados": {
+      "1": 0,
+      "2": 2,
+      "3": 5,
+      "4": 5,
+      "5": 2
+    },
+    "planejamento_evidencias": {
+      "1": 1,
+      "2": 2,
+      "3": 5,
+      "4": 4,
+      "5": 2
+    },
+    "ferramentas_ia": {
+      "1": 3,
+      "2": 4,
+      "3": 4,
+      "4": 2,
+      "5": 1
+    },
+    "nocoes_legislacao": {
+      "1": 0,
+      "2": 2,
+      "3": 5,
+      "4": 5,
+      "5": 2
+    }
+  },
+  "gestao_rotina": {
+    "avaliacao_execucao_tarefas": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 9,
+      "5": 3
+    },
+    "planejamento_semanal": {
+      "Sim": 10,
+      "Não": 1,
+      "Às vezes": 3
+    },
+    "pae_passivos": {
+      "Sim": 11,
+      "Não": 1,
+      "Parcialmente": 2
+    }
+  },
+  "swot": {
+    "forcas": [
+      "Equipe muito atenta e comprometida com as demandas",
+      "Suporte jurídico que gera mais segurança na elaboração dos despachos",
+      "Organização por planilhas que facilita a sistematização das demandas",
+      "Cooperação entre os membros da equipe",
+      "Priorização de processos com aposentadoria iminente",
+      "Triagem interna eficiente com identificação de processos encaminhados equivocadamente",
+      "Organização e registro em planilha geral de produção da CCM"
+    ],
+    "fraquezas": [
+      "Processsos que chegam com despachos pouco claros e de difícil compreensão",
+      "Falta de acesso ao INDEXA para consulta de contribuições anteriores a 1989",
+      "Alta fragilidade na revisão do parecer dos despachos, gerando alto número de erratas",
+      "Baixo quantitativo de servidores em face do alto volume e complexidade dos processos",
+      "Necessidade de treinamentos em linguagem jurídica aplicada à área da pecúnia",
+      "Dificuldade de leitura da linguagem jurídica em processos de PAD",
+      "Equipe reduzida com sobrecarga nas carteiras mais demandadas"
+    ],
+    "oportunidades": [
+      "Promover treinamentos para a equipe e definição de cronogramas periódicos",
+      "Diminuição da dependência de setores externos (COR/SEPLAD)",
+      "Melhorar alinhamento com a SEPLAD sobre processos de substituição",
+      "Otimizar a utilização de ferramentas de comunicação gratuitas",
+      "Melhorar integração com DIGE por meio de acompanhamento conjunto de planilhas",
+      "Ampliar a equipe com estagiários e novos servidores",
+      "Digitalização e organização do arquivo via SIGED"
+    ],
+    "ameacas": [
+      "Aposentadoria próxima de líder experiente (2027), risco de perda de conhecimento",
+      "Alto volume de erratas geradas por inconsistências nas portarias da DIGE",
+      "Dependência de setores externos (SEPLAD) para correção de dados no sistema Ergon",
+      "Falta de treinamento adequado em PAE 4.0 e legislação",
+      "Desorganização do arquivo físico por mudanças de endereço sem reorganização documental",
+      "Necessidade urgente de treinamento para equipe do protocolo geral",
+      "Risco de erros/equívocos no produto final pelo alto volume de processos"
+    ]
+  },
+  "desafios_clima": [
+    "Melhorar a comunicação interna para esclarecimentos e interação da equipe",
+    "Necessidade de sensibilidade e cooperação entre equipes para cobertura de ausências",
+    "Ampliar o quantitativo de servidores e promover qualificação contínua",
+    "Superar dependência de setores externos para resolução de pendências",
+    "Desenvolver planejamento estruturado para gestão de processos passivos"
+  ],
+  "distribuicao_tarefas": [
+    "Divisão de tarefas na carteira com todos atuando em tarefas comuns, dada a complexidade e o baixo quantitativo de servidores",
+    "Sistematização das demandas por planilhas, organizando e dando fluidez às tarefas da equipe",
+    "Recepção dos processos, distribuição entre a equipe com prioridade a processos de aposentadoria, inserção na planilha geral de produção",
+    "Triagem interna para identificar processos encaminhados equivocadamente, seguida de distribuição aleatória na equipe",
+    "Recebimento via PAE e por planilha para concessão de férias coletivas, com análise e distribuição",
+    "Recebimento de processos das DREs, DIGE e protocolo da CCM, distribuição por equipe conforme demanda",
+    "Leitura diária do Diário Oficial e atendimento de demandas internas e externas",
+    "Gerenciamento de processos por urgência ou situação judicial, recebimento do protocolo CCM e triagem por planilha"
+  ],
+  "observacoes": [
+    "Necessidade de treinamento em PAE 4.0 e legislação. Atenção à aposentadoria da líder Cristina em 2027.",
+    "Reorganização do arquivo físico após mudanças de endereço é urgente. Treinamento para equipe do protocolo. Cooperação entre equipes para cobertura de ausências. EPI necessários (máscaras, luvas). SIGED precisa avançar na digitalização.",
+    "Necessidade de treinamentos em linguagem jurídica para pecúnia. Em reestruturação, pecúnia não deve voltar a ser vinculada com equipe de licença.",
+    "Ampliar equipe: atualmente 5 servidores, sendo uma em tempo parcial. Alto volume gera possíveis erros/equívocos no produto final.",
+    "Melhorar fluxo com DIGE/CCM, pois CCM acaba atuando apenas na correção. Planilha entre DIGE e CCM não está sendo acompanhada adequadamente.",
+    "Sugestão de melhoria do alinhamento com SEPLAD para processos de substituição. Melhorar fluxo de entrada de designações/dispensas vindas de três pontos distintos."
+  ]
+}
