@@ -120,8 +120,6 @@ interface DonutProps {
 export function DonutChart({ title, subtitle, description, data, colors, height = 260 }: DonutProps) {
   const pieData = toPie(data, colors);
   const total = pieData.reduce((s, d) => s + d.value, 0);
-  const innerR = Math.floor(height * 0.22);
-  const outerR = Math.floor(height * 0.38);
 
   return (
     <div style={{

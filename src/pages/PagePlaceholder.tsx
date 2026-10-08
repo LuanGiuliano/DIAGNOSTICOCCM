@@ -16,7 +16,7 @@ export function PagePlaceholder({ title, description }: PagePlaceholderProps) {
         flex: 1,
         minHeight: '60vh',
         gap: 16,
-        text: 'center',
+        textAlign: 'center',
       }}>
         <div style={{
           width: 72,
